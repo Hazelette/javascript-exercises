@@ -8,7 +8,10 @@
 */
 
 // Add your code right below, good luck!
-
+const firstName = "The";
+const lastName = "Herta";
+const thisYear = 2025;
+const birthYear = 1417;
 
 
 
